@@ -1,5 +1,8 @@
 _repo: The-Brownie-Scouts-in-the-Cherry-Festival_51693
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 51693-h/images/cover.jpg
 creator:
   author:
     agent_name: Wirt, Mildred A. (Mildred Augustine)
@@ -17,6 +20,8 @@ creator:
     - http://en.wikipedia.org/wiki/Mildred_Benson
     - http://www.gutenberg.org/browse/authors/c#a36376
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51693#The-Brownie-Scouts-in-the-Cherry-Festival
 gutenberg_issued: '2016-04-08'
 gutenberg_type: Text
 identifiers:
