@@ -1,0 +1,37 @@
+_repo: The-Brownie-Scouts-in-the-Cherry-Festival_51693
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wirt, Mildred A. (Mildred Augustine)
+    aliases:
+    - Benson, Mildred Wirt
+    - Wirt, Ann
+    - Benson, Millie
+    - Augustine, Mildred
+    - Wirt, Mildred Augustine
+    birthdate: 1905
+    deathdate: 2002
+    gutenberg_agent_id: '37000'
+    url: http://www.gutenberg.org/2009/agents/37000
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Mildred_Benson
+    - http://www.gutenberg.org/browse/authors/c#a36376
+description: ''
+gutenberg_issued: '2016-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51693'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mexicans -- United States -- Social conditions -- Juvenile fiction'
+- !lcsh 'Brownie Girl Scouts -- Juvenile fiction'
+- !lcsh 'Quilting -- Juvenile fiction'
+- !lcsh 'Migrant agricultural laborers -- United States -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Money-making projects for children -- Juvenile fiction'
+- GITenberg
+title: The Brownie Scouts in the Cherry Festival
+url: http://www.gutenberg.org/ebooks/51693
